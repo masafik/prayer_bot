@@ -1,0 +1,2 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[112],{5222:function(n,e,u){(window.__NEXT_P=window.__NEXT_P||[]).push(["/[id]",function(){return u(1542)}])},1542:function(n,e,u){"use strict";u.r(e);var r=u(5893);u(7294);var i=u(1163);e.default=function(){var n=(0,i.useRouter)();return(0,r.jsx)("div",{className:"App",children:(0,r.jsx)("header",{className:"App-header",children:n.query.id})})}},1163:function(n,e,u){n.exports=u(6885)}},function(n){n.O(0,[774,888,179],function(){return n(n.s=5222)}),_N_E=n.O()}]);
+//# sourceMappingURL=[id]-011364d93f5768eb.js.map

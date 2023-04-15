@@ -1,0 +1,2 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[194],{9333:function(n,e,u){(window.__NEXT_P=window.__NEXT_P||[]).push(["/Test1/[id]",function(){return u(5164)}])},5164:function(n,e,u){"use strict";u.r(e);var r=u(5893);u(7294);var s=u(1163);e.default=function(){var n=(0,s.useRouter)();return(0,r.jsx)("div",{className:"App",children:(0,r.jsx)("header",{className:"App-header",children:n.query.id})})}},1163:function(n,e,u){n.exports=u(6885)}},function(n){n.O(0,[774,888,179],function(){return n(n.s=9333)}),_N_E=n.O()}]);
+//# sourceMappingURL=[id]-aae3f7a434c66ff9.js.map
