@@ -19,8 +19,8 @@ function App() {
         { name: 'ซุฮรี' },
         { name: 'อัสรี' },
         { name: 'มัฆริบ' },
-        { name: 'sss' },
-        { name: 'sss' }
+        { name: 'อีซา' },
+        { name: 'ซุบฮี' }
     ]
     return (
         <Layout >
