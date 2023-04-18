@@ -35,7 +35,7 @@ function App() {
                                         <AccessTimeIcon sx={{ fontSize: 80 }}></AccessTimeIcon>
                                     </Grid>
                                     <Grid item xs={4}>
-                                        <h2>time : </h2>
+                                        <h2>เวลา : </h2>
                                     </Grid>
                                     <Grid item xs={4}>
                                         <h2 style={{ textAlign: 'end', paddingRight: 20 }}>{item.name}</h2>
