@@ -8,8 +8,7 @@ module.exports = {
             '/': { page: '/' },
             '/Test': { page: '/Test' },
             '/Test1': { page: '/Test1' },
-            '/about': { page: '/About' },
-            '/about/page1': { page: '/About/Page1' }
+            '/about': { page: '/About' }
 
         }
     },
