@@ -12,7 +12,7 @@ function App() {
     const router = useRouter();
 
     const styles = {
-        Box: { bgcolor: 'primary.main', color: 'white', borderRadius: 2, margin: 1, padding: 2 }
+        Box: { bgcolor: 'primary.main', color: 'white', borderRadius: 50, margin: 1, padding: 2, border: 1,borderColor: 'black' }
     }
 
     let data = [
