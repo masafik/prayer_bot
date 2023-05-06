@@ -11,7 +11,7 @@ let theme = createTheme({
         },
         secondary: {
             main: '#edf2ff',
-        },
+        }
     },
 });
 

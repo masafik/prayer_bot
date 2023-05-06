@@ -27,6 +27,14 @@ function App() {
             <React.Fragment >
                 <CssBaseline />
                 <Container maxWidth="md">
+                    <Button variant="contained"  onClick={() => {
+                        router.push({
+                            pathname: '/'
+                        },
+                            undefined, { shallow: true }
+                        )
+                    }}>Back</Button>
+
                     {data.map((item, index) => {
                         return (
                             <Box sx={styles.Box}>

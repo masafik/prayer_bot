@@ -11,7 +11,7 @@ function App() {
     return (
         <div className="App">
             <header className="App-header">
-                {router.query.id}
+                {router.query.id} จาก [id].js แรก
             </header>
         </div>
     );
